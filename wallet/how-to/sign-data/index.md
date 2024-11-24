@@ -239,6 +239,6 @@ The following HTML displays a sign button:
 
 `personal_sign` prepends the message with `\x19Ethereum Signed Message:\n<length of message>` before
 hashing and signing it.
-
+123321
 See the [live example](https://metamask.github.io/test-dapp/#personalSign) and
 [test dapp source code](https://github.com/MetaMask/test-dapp) for more information.
